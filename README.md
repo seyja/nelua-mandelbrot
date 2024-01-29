@@ -1,4 +1,3 @@
-![z](https://github.com/seyja/nelua-mandelbrot/blob/main/iSKmYnP.png?raw=true)
 
 u need to install raylib 4 this to work or something
 
@@ -16,3 +15,4 @@ to run this simply use
 ```
 nelua index.lua
 ```
+![z](https://github.com/seyja/nelua-mandelbrot/blob/main/iSKmYnP.png?raw=true)
